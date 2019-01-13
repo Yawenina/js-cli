@@ -1,0 +1,32 @@
+{
+  "fe-js-webpack": {
+    "url": "",
+    "branch": "",
+    "description": ""
+  },
+  "fe-ts-webpack": {
+    "url": "",
+    "branch": "",
+    "description": ""
+  },
+  "fe-js-rollup": {
+    "url": "",
+    "branch": "",
+    "description": ""
+  },
+  "fe-ts-rollup": {
+    "url": "",
+    "branch": "",
+    "description": ""
+  },
+  "be-node": {
+    "url": "",
+    "branch": "",
+    "description": ""
+  },
+  "be-ts": {
+    "url": "",
+    "branch": "",
+    "description": ""
+  }
+}
